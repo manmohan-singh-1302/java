@@ -1,0 +1,6 @@
+A stack is a linear data structure which follows LIFO (last in first out) for the operations to be performed.
+In real time there are many applications of stack data structure i.e.;
+ --> Memory management in computer programming
+ --> Recursio in programming
+ --> UNDO/REDO functionality in text editors and image editing softwares
+ --> back and forward buttons in web browsers
